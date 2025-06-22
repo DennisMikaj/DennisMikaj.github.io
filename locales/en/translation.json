@@ -1,0 +1,85 @@
+{
+  "home": {
+    "heroTitle": "Welcome to My Portfolio",
+    "intro": "Hi! I'm ",
+    "intro2":"a Fullstack .NET Developer passionate about building clean, functional, and user-friendly web solutions.",
+    "explore": "Feel free to explore my projects and get in touch!",
+    "techStackTitle": "My Tech Stack",
+    "techStackDescription": "Here are some of the technologies I work with:",
+    "aboutTitle": "About Me",
+    "aboutText1": "I am a Fullstack .NET Developer with a passion for creating efficient and scalable web applications.",
+    "aboutText2": "I have experience in both frontend and backend development, and I love tackling complex problems with elegant solutions.",
+    "aboutText3": "In my free time, I enjoy learning new technologies and exploring the latest trends in web development.",
+    "aboutBtn": "Learn More About Me",
+    "contactTitle": "Contact Me",
+    "contactText": "If you have any questions or would like to collaborate, feel free to reach out!",
+    "contactBtn": "Get in Touch",
+    "projectsBtn": "View My Projects"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "intro": "If you have any questions, feedback or job openings, don't hesitate to reach out!",
+    "email": "Email Me",
+    "linkedin": "LinkedIn",
+    "github": "Github",
+    "note": "Feel free to connect with me on LinkedIn or GitHub, or send me an email. I'm always open to new opportunities and collaborations.",
+    "jobSearch": "I'm currently looking for a full-time position as a Fullstack .NET Developer.",
+    "cvButton": "Download CV",
+    "location": "Based in Sweden – available for remote work or relocation.",
+    "closing": "Looking forward to hearing from you!"
+  },
+  "projects": {
+    "title": "My previous projects",
+    "intro": "Here are some of the projects I have worked on:",
+    "irontrackTitle": "Irontrack - Workout Tracker",
+    "irontrackDesc": "A work-in-progress fitness app for tracking workouts and monitoring progress. Built with React to provide an intuitive user experience and flexible workout logging features. Aiming to help users stay motivated and achieve their fitness goals.",
+    "contentAiTitle": "ContentAI - Platform Project (Internship)",
+    "contentAiDesc": "Developed a comprehensive content management and collaboration platform aimed at streamlining content creation workflows within organizations. The system features role-based access control with invitation and approval mechanisms, allowing teams to manage user permissions efficiently. Implemented React frontend with a robust .NET backend API, including secure JWT-based authentication and authorization flows. The platform supports multi-user collaboration on content pieces, approval pipelines for publishing, and integration with third-party authentication services, ensuring scalable and secure management of digital content assets.",
+    "contentAiTech": "Technologies used: React, .NET Core, Entity Framework, mariaDB, JWT Authentication, Azure Blob Storage, Ollama 3, Docker",
+    "awsTitle": "AWS ETL Pipeline Project (Internship)",
+    "awsDesc": "Developed a scalable ETL pipeline using AWS Glue to extract, transform, and load data efficiently. Leveraged Amazon Redshift as the data warehouse for analytics and reporting. Integrated AWS Lambda functions to automate and orchestrate serverless workflows within the data pipeline, ensuring a robust and cost-effective cloud solution.",
+    "awsTech": "Technologies used: AWS Glue, Amazon Redshift, AWS Lambda, Python, PowerBI",
+    "umbracoTitle": "Umbraco Website (School Project)",
+    "umbracoDesc": "Developed a website using Umbraco CMS as part of my web development coursework, focusing on content management and site structure.",
+    "umbracoBtn": "View Project on GitHub",
+    "umbracoTech": "Technologies used: Umbraco CMS, C#, HTML, CSS, JavaScript",
+    "webApiTitle": "ASP.NET Web API (School Project)",
+    "webApiDesc": "Developed a Web API using ASP.NET to handle user authentication, manage user data, and provide course information through secure endpoints. The API supports smooth integration with front-end applications and ensures reliable data communication.",
+    "webApiBtn": "View Project on GitHub",
+    "webApiTech": "Technologies used: ASP.NET, Entity Framework, SQL Server, JWT Authentication",
+    "webAppTitle": "ASP.NET Core Web Application (School Project)",
+    "webAppDesc": "Built a full-stack web application with ASP.NET Core featuring user login functionality, user profile management, and dynamic retrieval of course data from the Web API. Focused on seamless user experience and secure data handling.",
+    "webAppBtn": "View Project on GitHub",
+    "webAppTech": "Technologies used: ASP.NET Core, Razor Pages, Entity Framework, SQL Server",
+    "blazorBackofficeTitle": "Blazor Web App Backoffice (School Project)",
+    "blazorBackofficeDesc": "Built a backoffice system using ASP.NET Web API where administrators can create, read, update, and delete courses, as well as manage user accounts. The API features JWT-based authentication and integrates with a front-end Blazor application.",
+    "blazorBackofficeBtn": "View Project on GitHub",
+    "blazorBackofficeTech": "Technologies used: ASP.NET, Entity Framework, SQL Server, JWT Authentication",
+    "blazorAppTitle": "Blazor Web Application (School Project)",
+    "blazorAppDesc": "Developed a Blazor-based web application using ASP.NET Core with Razor Pages, allowing users to register, log in, and view personalized course data fetched from the API. Emphasis was placed on clean UI, secure data handling, and responsive interaction with the backend.",
+    "blazorAppBtn": "View Project on GitHub",
+    "blazorAppTech": "Technologies used: ASP.NET Core, Razor Pages, Entity Framework, SQL Server",
+    "techStackTitle": "Some of the Technologies I've worked with:"
+  },
+  "about": {
+    "title": "About Me",
+    "intro": "Hi! I'm",
+    "intro2": "a passionate web developer with a background in the food industry.",
+    "careerChange": "After 10 years in my previous field, I made the leap into tech to pursue my love for building things and solving problems through code.",
+    "specialization": "I specialize in building modern, user-friendly applications using technologies like React, .NET, TypeScript, and SQL. I also enjoy working with tools like Docker, Postman, and GitHub.",
+    "hobbies": "When I'm not coding, you’ll find me lifting weights, exploring new frameworks, or hanging out with friends.",
+    "growth": "I'm always looking for new challenges and exciting opportunities to grow as a developer and make meaningful contributions to real-world projects.",
+    "thanks": "Thanks for visiting my page!"
+  },
+  "footer": {
+    "copyright": " Dennis Mikaj. All rights reserved."
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "projects": "Projects"
+  }
+}
+
+  

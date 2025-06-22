@@ -1,0 +1,83 @@
+{
+  "home": {
+    "heroTitle": "Välkommen till min portfolio",
+    "intro": "Hej! Jag är ",
+    "intro2":"en Fullstack .NET-utvecklare med passion för att skapa rena, funktionella och användarvänliga webbapplikationer.",
+    "explore": "Utforska gärna mina projekt och hör av dig!",
+    "techStackTitle": "Min teknikstack",
+    "techStackDescription": "Här är några av teknologierna jag arbetar med:",
+    "aboutTitle": "Om mig",
+    "aboutText1": "Jag är en Fullstack .NET-utvecklare med passion för att skapa effektiva och skalbara webbapplikationer.",
+    "aboutText2": "Jag har erfarenhet av både frontend- och backendutveckling och älskar att lösa komplexa problem med eleganta lösningar.",
+    "aboutText3": "På fritiden gillar jag att lära mig nya teknologier och utforska de senaste trenderna inom webbutveckling.",
+    "aboutBtn": "Läs mer om mig",
+    "contactTitle": "Kontakta mig",
+    "contactText": "Om du har frågor eller vill samarbeta, tveka inte att höra av dig!",
+    "contactBtn": "Ta kontakt",
+    "projectsBtn": "Se mina projekt"
+  },
+  "contact": {
+  "title": "Kontakta mig",
+  "intro": "Om du har frågor, feedback eller jobberbjudanden, tveka inte att höra av dig!",
+  "email": "Skicka e-post",
+  "linkedin": "LinkedIn",
+  "github": "Github",
+  "note": "Känn dig fri att kontakta mig på LinkedIn eller GitHub, eller skicka ett mejl. Jag är alltid öppen för nya möjligheter och samarbeten.",
+  "jobSearch": "Jag söker för närvarande en heltidsanställning som Fullstack .NET-utvecklare.",
+  "cvButton": "Ladda ner CV",
+  "location": "Baserad i Sverige – tillgänglig för distansarbete eller flytt.",
+  "closing": "Ser fram emot att höra från dig!"
+},
+  "projects": {
+    "title": "Mina tidigare projekt",
+    "intro": "Här är några av projekten jag har arbetat med:",
+    "irontrackTitle": "Irontrack - Träningsapp",
+    "irontrackDesc": "En pågående träningsapp för att logga träningspass och följa framsteg. Byggd med React för en intuitiv användarupplevelse och flexibla funktioner för träningsloggning. Syftar till att hjälpa användare hålla sig motiverade och nå sina mål.",
+    "contentAiTitle": "ContentAI - Plattform (LIA-praktik)",
+    "contentAiDesc": "Utvecklade en plattform för innehållshantering och samarbete för att effektivisera arbetsflöden inom organisationer. Systemet inkluderar rollbaserad åtkomst med inbjudnings- och godkännandefunktioner. Frontend i React och backend med .NET och JWT-autentisering. Plattformen stödjer samarbete, godkännandeprocesser och tredjepartsinloggning.",
+    "contentAiTech": "Tekniker: React, .NET Core, Entity Framework, mariaDB, JWT, Azure Blob Storage, Ollama 3, Docker",
+    "awsTitle": "AWS ETL Pipeline (LIA-praktik)",
+    "awsDesc": "Byggde en skalbar ETL-pipeline med AWS Glue för att extrahera, transformera och ladda data. Använde Amazon Redshift som datalager och automatiserade flöden med AWS Lambda för ett kostnadseffektivt molnbaserat system.",
+    "awsTech": "Tekniker: AWS Glue, Amazon Redshift, AWS Lambda, Python, PowerBI",
+    "umbracoTitle": "Umbraco-webbplats (Skolprojekt)",
+    "umbracoDesc": "Skapade en webbplats med Umbraco CMS som en del av kursen, med fokus på innehållshantering och struktur.",
+    "umbracoBtn": "Se projektet på GitHub",
+    "umbracoTech": "Tekniker: Umbraco CMS, C#, HTML, CSS, JavaScript",
+    "webApiTitle": "ASP.NET Web API (Skolprojekt)",
+    "webApiDesc": "Utvecklade ett Web API med ASP.NET för att hantera autentisering, användardata och kursinformation via säkra endpoints. API:et stödjer integration med frontend och säker datakommunikation.",
+    "webApiBtn": "Se projektet på GitHub",
+    "webApiTech": "Tekniker: ASP.NET, Entity Framework, SQL Server, JWT",
+    "webAppTitle": "ASP.NET Core Webbapplikation (Skolprojekt)",
+    "webAppDesc": "Byggde en fullstack-applikation med ASP.NET Core med inloggning, profilsidor och dynamisk kursdata från ett API. Fokus låg på smidig UX och säker hantering.",
+    "webAppBtn": "Se projektet på GitHub",
+    "webAppTech": "Tekniker: ASP.NET Core, Razor Pages, Entity Framework, SQL Server",
+    "blazorBackofficeTitle": "Blazor Backoffice (Skolprojekt)",
+    "blazorBackofficeDesc": "Byggde ett adminsystem med ASP.NET Web API där admin kan CRUD:a kurser och användare. JWT-autentisering och Blazor frontend.",
+    "blazorBackofficeBtn": "Se projektet på GitHub",
+    "blazorBackofficeTech": "Tekniker: ASP.NET, Entity Framework, SQL Server, JWT",
+    "blazorAppTitle": "Blazor Web App (Skolprojekt)",
+    "blazorAppDesc": "Utvecklade en Blazor-webbapp där användare kan registrera sig, logga in och se personlig kursdata från API:t. Fokus på UI, säkerhet och responsivitet.",
+    "blazorAppBtn": "Se projektet på GitHub",
+    "blazorAppTech": "Tekniker: ASP.NET Core, Razor Pages, Entity Framework, SQL Server",
+    "techStackTitle": "Några av teknikerna jag jobbat med:"
+  },
+  "about": {
+    "title": "Om mig",
+    "intro": "Hej! Jag är", 
+    "intro2": "en passionerad webbutvecklare med bakgrund inom livsmedelsbranschen.",
+    "careerChange": "Efter 10 år i mitt tidigare yrke tog jag steget in i techvärlden för att följa min passion för att bygga saker och lösa problem med kod.",
+    "specialization": "Jag är specialiserad på att bygga moderna, användarvänliga applikationer med tekniker som React, .NET, TypeScript och SQL. Jag gillar också att arbeta med verktyg som Docker, Postman och GitHub.",
+    "hobbies": "När jag inte kodar lyfter jag vikter, utforskar nya ramverk eller umgås med vänner.",
+    "growth": "Jag söker ständigt nya utmaningar och spännande möjligheter att växa som utvecklare och bidra till verkliga projekt.",
+    "thanks": "Tack för att du besökte min sida!"
+  },
+  "footer": {
+    "copyright": " Dennis Mikaj. Alla rättigheter reserverade."
+  },
+  "header": {
+    "home": "Hem",
+    "about": "Om mig",
+    "contact": "Kontakt",
+    "projects": "Projekt"
+  }
+}
