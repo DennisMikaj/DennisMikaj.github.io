@@ -35,7 +35,7 @@
     "irontrackDesc": "En pågående träningsapp för att logga träningspass och följa framsteg. Byggd med React för en intuitiv användarupplevelse och flexibla funktioner för träningsloggning. Syftar till att hjälpa användare hålla sig motiverade och nå sina mål.",
     "contentAiTitle": "ContentAI - Plattform (LIA-praktik)",
     "contentAiDesc": "Utvecklade en plattform för innehållshantering och samarbete för att effektivisera arbetsflöden inom organisationer. Systemet inkluderar rollbaserad åtkomst med inbjudnings- och godkännandefunktioner. Frontend i React och backend med .NET och JWT-autentisering. Plattformen stödjer samarbete, godkännandeprocesser och tredjepartsinloggning.",
-    "contentAiTech": "Tekniker: React, .NET Core, Entity Framework, mariaDB, JWT, Azure Blob Storage, Ollama 3, Docker",
+    "contentAiTech": "Tekniker: React, .NET Core, Entity Framework, mariaDB, JWT, Azure Blob Storage, Ollama 3, Docker, Axios",
     "awsTitle": "AWS ETL Pipeline (LIA-praktik)",
     "awsDesc": "Byggde en skalbar ETL-pipeline med AWS Glue för att extrahera, transformera och ladda data. Använde Amazon Redshift som datalager och automatiserade flöden med AWS Lambda för ett kostnadseffektivt molnbaserat system.",
     "awsTech": "Tekniker: AWS Glue, Amazon Redshift, AWS Lambda, Python, PowerBI",
@@ -59,7 +59,12 @@
     "blazorAppDesc": "Utvecklade en Blazor-webbapp där användare kan registrera sig, logga in och se personlig kursdata från API:t. Fokus på UI, säkerhet och responsivitet.",
     "blazorAppBtn": "Se projektet på GitHub",
     "blazorAppTech": "Tekniker: ASP.NET Core, Razor Pages, Entity Framework, SQL Server",
+    "reactFrontendTitle": "React Frontend Applikation (Skolprojekt)",
+    "reactFrontendDesc": "Byggde en frontend-applikation med React som kommunicerar med ett ASP.NET Web API för att hantera användardata och kursinformation. Fokuserade på responsiv design och smidig användarupplevelse.",
+    "reactFrontendBtn": "Se projektet på GitHub",
+    "reactFrontendTech": "Tekniker: React, HTML, CSS",
     "techStackTitle": "Några av teknikerna jag jobbat med:"
+
   },
   "about": {
     "title": "Om mig",

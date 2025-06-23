@@ -59,6 +59,10 @@
     "blazorAppDesc": "Developed a Blazor-based web application using ASP.NET Core with Razor Pages, allowing users to register, log in, and view personalized course data fetched from the API. Emphasis was placed on clean UI, secure data handling, and responsive interaction with the backend.",
     "blazorAppBtn": "View Project on GitHub",
     "blazorAppTech": "Technologies used: ASP.NET Core, Razor Pages, Entity Framework, SQL Server",
+    "reactFrontendTitle": "React Frontend Application (School Project)",
+    "reactFrontendDesc": "Built a React-based frontend application that communicates with an ASP.NET Web API to manage user data and course information. Focused on responsive design, smooth user experience, and efficient data handling.",
+    "reactFrontendBtn": "view Project on GitHub",
+    "reactFrontendTech": "Technologies: React, HTML, CSS",
     "techStackTitle": "Some of the Technologies I've worked with:"
   },
   "about": {
